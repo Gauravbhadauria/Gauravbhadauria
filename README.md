@@ -1,6 +1,8 @@
+![image](https://github.com/Gauravbhadauria/Gauravbhadauria/assets/86098943/3b472fb7-2246-44b7-905c-8cbdc75fe193)
 <h1 align="center">Hi 👋, I'm Gaurav Bhadauria</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
+<img src="https://drive.google.com/file/d/1wYRNJqo_Tntme7MBIi2El3_HT4eiuOwv/view?usp=sharing" alt="gauravbhadauria" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbhadauria&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbhadauria" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravbhadauria" alt="gauravbhadauria" /></a> </p>
