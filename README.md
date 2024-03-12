@@ -1,6 +1,6 @@
 ![image](https://github.com/Gauravbhadauria/Gauravbhadauria/assets/86098943/3b472fb7-2246-44b7-905c-8cbdc75fe193)
 <h1 align="center">Hi 👋, I'm Gaurav Bhadauria</h1>
-<h3 align="center">A passionate App developer from India</h3>
+<h3 align="center">Founder of Engineer Codewala and a passionate developer from India 🇮🇳</h3>
 
 <img src="https://drive.google.com/file/d/1Ll5J3ULHsV6Xr3kOfGuLAFSc83fUchUq/view?usp=sharing" alt="gauravbhadauria" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbhadauria&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbhadauria" /> </p>
