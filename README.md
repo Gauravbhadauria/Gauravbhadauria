@@ -1,7 +1,7 @@
+<img  src="https://file.io/UGXl8NPA9gsK" alt="my banner">
 
-<h1 align="center">Hi 👋, I'm Gaurav Bhadauria</h1>
-<h3 align="center">Founder of Engineer Codewala and a passionate developer from India 🇮🇳</h3>
-<img src="https://drive.google.com/file/d/1Ll5J3ULHsV6Xr3kOfGuLAFSc83fUchUq/view?usp=sharing" alt="engineer codewala"/>
+<h1 align="center">Hello Folks 👋, I'm <b>Gaurav Bhadauria</b></h1>
+<h3 align="center">Founder of <b>Engineer Codewala</b> and a Passionate <b>Developer</b> from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbhadauria&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbhadauria" /> </p>
 
