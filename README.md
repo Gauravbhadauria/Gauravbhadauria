@@ -3,15 +3,14 @@
 <h1 align="center">Hello Folks 👋, I'm <b>Gaurav Bhadauria</b></h1>
 <h3 align="center">Founder of <b>Engineer Codewala</b> and a Passionate <b>Developer</b> from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbhadauria&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbhadauria" /> </p>
+<h1>Learn React Native on Youtube For Free </h1>
+<img  src="https://file.io/PZtODTZMgD1c" alt="youtube">
+<a href='www.youtube.com/@EngineerCodewala'>Visit My Youtube Channel</a>
+ 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravbhadauria" alt="gauravbhadauria" /></a> </p>
+<h1>My Projects</h1>
+<img  src="https://file.io/1Khfu9Gw39AU" alt="youtube">
 
-- 🔭 I’m currently working on **React Native Projects**
-
-- 👨‍💻 All of my projects are available at [engineercodewala.in](engineercodewala.in)
-
-- 💬 Ask me about **React ,React Native and Android**
 
 - 📫 How to reach me **gauravofficial1995@gmail.com**
 
