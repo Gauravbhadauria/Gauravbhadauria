@@ -3,7 +3,13 @@
 
 <h1>Learn React Native on Youtube For Free 🔥</h1>
 <img  src="https://i.ytimg.com/vi/PhZ-ajyMftI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZSUgTAkAU4sCL6htzrYst-_UtRw" alt="my banner">
-<a href='www.youtube.com/@EngineerCodewala'><a href="https://www.youtube.com/c/engineercodewala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engineercodewala" height="30" width="40" /></a> Visit My Youtube Channel</a>
+
+# 📺 Connect with My YouTube Channel
+
+[![Subscribe](https://img.shields.io/badge/Subscribe-Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EngineerCodewala?sub_confirmation=1)
+[![View Channel](https://img.shields.io/badge/View%20Channel-Youtube-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EngineerCodewala)
+
+
  
 <h1>I worked on these Projects</h1>
 
@@ -33,10 +39,11 @@ Delivering modern, responsive, and SEO-friendly websites to enhance your online 
 Secure and efficient backend solutions with APIs, databases, and server management using Node.js, Express, MongoDB, and other technologies.
 
  <h3 align="left">Contact for Freelancing Services</h3>
- Feel free to reach out to us via:
 
-- **📧 Email**: [gauravofficial1995@gmail.com](mailto:gauravofficial1995@gmail.com)
-- **💬 WhatsApp**: [Chat on WhatsApp](https://wa.me/+918383006681)
+Get in touch with us:
+
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:gauravofficial1995@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+918383006681)
 
 We'll respond as quickly as possible!
 
