@@ -1,4 +1,4 @@
-<img  src="https://file.io/UGXl8NPA9gsK" alt="my banner">
+<img  src="https://i.ytimg.com/vi/PhZ-ajyMftI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZSUgTAkAU4sCL6htzrYst-_UtRw" alt="my banner">
 
 <h1 align="center">Hello Folks 👋, I'm <b>Gaurav Bhadauria</b></h1>
 <h3 align="center">Founder of <b>Engineer Codewala</b> and a Passionate <b>Developer</b> from India 🇮🇳</h3>
