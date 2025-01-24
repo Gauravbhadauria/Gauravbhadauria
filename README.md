@@ -1,18 +1,45 @@
-<img  src="https://i.ytimg.com/vi/PhZ-ajyMftI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZSUgTAkAU4sCL6htzrYst-_UtRw" alt="my banner">
-
 <h1 align="center">Hello Folks 👋, I'm <b>Gaurav Bhadauria</b></h1>
 <h3 align="center">Founder of <b>Engineer Codewala</b> and a Passionate <b>Developer</b> from India 🇮🇳</h3>
 
-<h1>Learn React Native on Youtube For Free </h1>
-<img  src="https://file.io/PZtODTZMgD1c" alt="youtube">
-<a href='www.youtube.com/@EngineerCodewala'>Visit My Youtube Channel</a>
+<h1>Learn React Native on Youtube For Free 🔥</h1>
+<img  src="https://i.ytimg.com/vi/PhZ-ajyMftI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZSUgTAkAU4sCL6htzrYst-_UtRw" alt="my banner">
+<a href='www.youtube.com/@EngineerCodewala'><a href="https://www.youtube.com/c/engineercodewala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engineercodewala" height="30" width="40" /></a> Visit My Youtube Channel</a>
  
-
 <h1>I worked on these Projects</h1>
-<img  src="https://file.io/1Khfu9Gw39AU" alt="youtube">
 
+## [Cinystore](https://apps.apple.com/in/app/cinystore/id6473719567)
+Cinystore, is the ultimate social media app for film enthusiasts! Producers can now seamlessly share their latest movie information directly with their audience through our platform.
+Users can stay in the loop with the latest movie releases and industry news, all in one convenient location.
 
-- 📫 How to reach me **gauravofficial1995@gmail.com**
+## [HiresGulf - Job Search App](https://play.google.com/store/apps/details?id=com.horizoncandidateapp&pcampaignid=web_share)
+Are you a passionate job seeker or an employer looking for the right talent? Then Register with Hires Gulf now. Hires Gulf is powered by Horizon Group of Companies, a reputed conglomerate with presence in the Middle East & India.
+
+## [UTU EV App](https://utu.co.in/)
+This app is developed for EV Bike Rides and live bike traking but currently apps are not live.
+
+# 🚀 Services
+
+## ![App Development](https://img.shields.io/badge/App_Development-Mobile-blue?style=for-the-badge)
+We create robust and scalable mobile applications tailored to your needs. Expertise in Android, iOS, and cross-platform frameworks like React Native and Flutter.
+
+---
+
+## ![Website Development](https://img.shields.io/badge/Website_Development-Web-green?style=for-the-badge)
+Delivering modern, responsive, and SEO-friendly websites to enhance your online presence. Built with technologies like HTML, CSS, JavaScript, WordPress, and more.
+
+---
+
+## ![Backend Development](https://img.shields.io/badge/Backend_Development-API-orange?style=for-the-badge)
+Secure and efficient backend solutions with APIs, databases, and server management using Node.js, Express, MongoDB, and other technologies.
+
+ <h3 align="left">Contact for Freelancing Services</h3>
+ Feel free to reach out to us via:
+
+- **📧 Email**: [gauravofficial1995@gmail.com](mailto:gauravofficial1995@gmail.com)
+- **💬 WhatsApp**: [Chat on WhatsApp](https://wa.me/+918383006681)
+
+We'll respond as quickly as possible!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
