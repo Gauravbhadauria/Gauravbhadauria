@@ -2,7 +2,7 @@
 <h3 align="center">Founder of <b>Engineer Codewala</b> and a Passionate <b>Developer</b> from India 🇮🇳</h3>
 
 <h1>Learn React Native on Youtube For Free 🔥</h1>
-<img  src="https://i.ytimg.com/vi/PhZ-ajyMftI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZSUgTAkAU4sCL6htzrYst-_UtRw" alt="my banner">
+<img  src="https://i.ytimg.com/vi/PhZ-ajyMftI/maxresdefault.jpg" alt="my banner">
 
 # 📺 Connect with My YouTube Channel
 
