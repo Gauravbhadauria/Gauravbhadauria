@@ -77,6 +77,8 @@ We'll respond as quickly as possible!
 ### **Cloud and Backend**
 - ![Firebase](https://img.shields.io/badge/Firebase-Backend%20Services-yellow?style=for-the-badge&logo=firebase)
 - ![API Development](https://img.shields.io/badge/API%20Development-RESTful-lightblue?style=for-the-badge)
+- ![GraphQL](https://img.shields.io/badge/GraphQL-Development-ff4081?style=for-the-badge&logo=graphql)
+
 
 ### **Project Management**
 - ![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue?style=for-the-badge&logo=jira)
