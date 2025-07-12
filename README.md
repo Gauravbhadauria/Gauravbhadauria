@@ -1,9 +1,6 @@
 <h1 align="center">Hello Folks 👋, I'm <b>Gaurav Bhadauria</b></h1>
 <h3 align="center">Founder of <b>Engineer Codewala</b> and a Passionate <b>Developer</b> from India 🇮🇳</h3>
 
-<h1>Learn React Native on Youtube For Free 🔥</h1>
-<img  src="https://i.ytimg.com/vi/PhZ-ajyMftI/maxresdefault.jpg" alt="my banner">
-
 # 📺 Connect with My YouTube Channel
 
 [![Subscribe](https://img.shields.io/badge/Subscribe-Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EngineerCodewala?sub_confirmation=1)
