@@ -10,6 +10,11 @@
  
 <h1>I worked on these Projects</h1>
 
+## [DealDome](https://apps.apple.com/in/app/cinystore/id6473719567](https://play.google.com/store/apps/details?id=com.dealdome&hl=en_IN))
+Welcome to DealDome – Your Trusted Marketplace for Everything Local!
+At DealDome, we believe that buying and selling should be simple, secure, and satisfying. Whether you’re searching for a second-hand smartphone, listing your car, buying a new sofa, or investing in a property — DealDome makes the entire experience easy and accessible for everyone.
+
+
 ## [Cinystore](https://apps.apple.com/in/app/cinystore/id6473719567)
 Cinystore, is the ultimate social media app for film enthusiasts! Producers can now seamlessly share their latest movie information directly with their audience through our platform.
 Users can stay in the loop with the latest movie releases and industry news, all in one convenient location.
